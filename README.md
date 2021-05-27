@@ -9,4 +9,4 @@ User options will be what kind of spacing and things like that, such as if they 
 
 # Authors (So Far)
 - Evan Baker
-
+- Amro Karar
